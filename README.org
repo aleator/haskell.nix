@@ -10,7 +10,7 @@
 =haskell.nix= is an experimental new builder for Haskell packages.
 
 It works by automatically translating your Cabal or Stack project and
-its dependencies into Nix code.  It provides IFD (imports from derviation)
+its dependencies into Nix code.  It provides IFD (imports from derivation)
 functions that can minimize the amount of nix code you need to add.
 
 For the documentation, see https://input-output-hk.github.io/haskell.nix/.
